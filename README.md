@@ -45,7 +45,7 @@ pip package manager
 Local Setup
 Clone the repository
 bash
-git clone https://github.com/YOUR_USERNAME/accident-risk-predictor.git
+git clone https://github.com/utsavsharma1990/accident-risk-predictor.git
 cd accident-risk-predictor
 Create a virtual environment (optional but recommended)
 bash
@@ -165,9 +165,9 @@ Open a Pull Request
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 👤 Contact
-Your Name - @your_twitter - your.email@example.com
+Utsav Sharma - utsav2177@gmail.com
 
-Project Link: https://github.com/YOUR_USERNAME/accident-risk-predictor
+Project Link: https://github.com/utsavsharma1990/accident-risk-predictor
 
 🙏 Acknowledgments
 Kaggle for providing the dataset

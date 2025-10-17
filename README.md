@@ -8,6 +8,7 @@ Show Image
 
 🌟 Live Demo
 Try the App Here
+https://accident-risk-predictor-utsav.streamlit.app/
 
 📋 Table of Contents
 Overview
